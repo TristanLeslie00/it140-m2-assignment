@@ -53,11 +53,19 @@
 > **Where to look:** [SRS](./analysis/name_age_srs.md) → `## 0. General Description`
 >
 > **Prompt:** What is this program supposed to do for its user?
->
-> Enter your response below.
 
-TODO: Replace this text with your one-sentence summary of the program's purpose
 
+
+
+
+
+
+
+
+
+
+
+> The name_age program is a simple python program that asks the user for their name and age. The program calculates the user's approximate birth year and displays a personalized message containing the user's name and calulated brith year. 
 ### 3. Inputs, Processing, and Outputs
 
 > Think about the solution as three basic parts:
@@ -74,9 +82,9 @@ TODO: Replace this text with your one-sentence summary of the program's purpose
 >
 > Enter your response below. Use a separate numbered bullet for each input.
 
-1. TODO: Replace with your first input and its source (e.g., user input, system value, internal value).
 
-> **Where to look:** [SRS](./analysis/name_age_srs.md) → `## 1. Functional Requirements`, especially requirement **1.3**
+1.
+  **Where to look:** [SRS](./analysis/name_age_srs.md) → `## 1. Functional Requirements`, especially requirement **1.3**
 >
 > **Prompt:** For each input you listed above, what data type (e.g., string, integer, float)does each input need? If the SRS does not specify one, write **Not specified**.
 >
